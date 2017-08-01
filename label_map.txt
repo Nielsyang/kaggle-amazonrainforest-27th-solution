@@ -1,0 +1,17 @@
+0,slash_burn
+1,clear
+2,blooming
+3,primary
+4,cloudy
+5,conventional_mine
+6,water
+7,haze
+8,cultivation
+9,partly_cloudy
+10,artisinal_mine
+11,habitation
+12,bare_ground
+13,blow_down
+14,agriculture
+15,road
+16,selective_logging
